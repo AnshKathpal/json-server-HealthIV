@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "name": "Ansh Kathpal",
+      "email": "anshkathpal17@gmail.com",
+      "phoneNo": "8448837130",
+      "password": "ansh123",
+      "id": 1
+    },
+    {
+      "name": "Ansh",
+      "email": "storage.2.3107@gmail.com",
+      "password": "ansh1234",
+      "phoneNo": "833882",
+      "id": 2
+    },
+    {
+      "name": "Ansh Kathpalllll",
+      "email": "ansh@gmail.com",
+      "password": "cdddd",
+      "phoneNo": "8378732",
+      "id": 3
+    }
+  ],
+  "treatments": [
+    {
+      "title": "All Inclusive",
+      "price": "129",
+      "description": "A comprehensive wellness boost, specially designed to promote total-body strength and holistic health so you can stand up to the stressors of everyday life.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Myers-Cocktail.png",
+      "id": 1
+    },
+    {
+      "title": "Energy Lift",
+      "price": "129",
+      "description": "A special blend of essential vitamins, minerals, and electrolytes that boost your vitality and energy levels when you’re feeling fatigued or overworked.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Energy-Lift.png",
+      "id": 2
+    },
+    {
+      "title": "Recovery",
+      "price": "129",
+      "description": "A unique blend of vitamins and minerals that supports immune function, reduces inflammation, and aids muscular healing while recovering from intense exercise, illness, or injury.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Recovery.png",
+      "id": 3
+    },
+    {
+      "title": "Beauty",
+      "price": "129",
+      "description": "A targeted blend of vitamins, minerals, and electrolytes specifically crafted toboost your complexion and promote vibrant wellness and beauty—inside and out.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Beauty.png",
+      "id": 4
+    },
+    {
+      "title": "Immune Boost",
+      "price": "129",
+      "description": "An ideal blend of vitamins and minerals to support and strengthen your body’s natural immune function, protecting you from illness and helping you quickly recover.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Immune-Boost.png",
+      "id": 5
+    },
+    {
+      "title": "Weight Loss",
+      "price": "129",
+      "description": "A blend of IV fluids, amino acids, vitamins, and minerals designed to support weight loss by supercharging your metabolism and helping you burn fat faster.",
+      "areaCode": "100000",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Weight-Loss.png",
+      "id": 6
+    },
+    {
+      "title": "Stomach Flu",
+      "price": "129",
+      "description": "A signature blend of hydrating fluids, revitalizing electrolytes, vitamins, and minerals, designed to help you recover from the stomach flu as quickly as possible.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Stomach-Flu.png",
+      "id": 7
+    },
+    {
+      "title": "Athletic Performance",
+      "price": "189",
+      "description": "Our Athletic Performance IV Treatment is specifically blended to help those recovering from intense exercise, illness, or injury. ",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Athletic.png",
+      "id": 8
+    },
+    {
+      "title": "Mood Support NAD+",
+      "price": "189",
+      "description": "Our Mood Support NAD+ IV Treatment is a rejuvenating therapy designed for its anti-aging benefits and brain function support. NAD+ or Nicotinamide adenine dinucleotide is a naturally occurring enzyme that aids energy conversions.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/NAD-1.png",
+      "id": 9
+    },
+    {
+      "title": "Energize",
+      "price": "199",
+      "description": "Our IV Energize treatment is designed to give you some more pep in your step. Highly effective against symptoms of fatigue, making it perfect for busy people, travelers, and athletes.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Energize.png",
+      "id": 10
+    },
+    {
+      "title": "Aches and Pains",
+      "price": "229",
+      "description": "Our Aches and Pains IV Treatment is designed to soothe and heal. By eliminating inflammation, free radicals, cellular stress, and toxins, this infusion supports and strengthen your body’s natural immune function.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Aches-Pains.png",
+      "id": 11
+    },
+    {
+      "title": "Super Immune Boost",
+      "price": "229",
+      "description": "Our IV Super Immune Boost Treatment is designed to provide an extra level of high dose vitamin C and support for your body’s natural immune function. We’ve revamped the ideal blend of vitamins and minerals to support, maintain, and boost immune function.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Super-Immune-Boost.png",
+      "id": 12
+    },
+    {
+      "title": "Cosmetic",
+      "price": "249",
+      "description": "Our Cosmetic IV Treatment is perfect for promoting wellness inside and out. Our targeted formula of nutrients, minerals, and electrolytes is tailored to improve overall wellness, rejuvenate skin, hair, and nails as well as boost your complexion.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Cosmetic.png",
+      "id": 13
+    },
+    {
+      "title": "Hydration",
+      "price": "249",
+      "description": "An invigorating blend of electrolytes and IV fluids designed to replenish the body before or after intense physical activity so it can function at its best.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Hydration.png",
+      "id": 14
+    },
+    {
+      "title": "Hangover",
+      "price": "249",
+      "description": "A blend of detoxifying vitamins, minerals, and electrolytes designed to hydrate and revitalize your body, swiftly alleviating symptoms after a night of drinking.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Hangover.png",
+      "id": 15
+    },
+    {
+      "title": "Diet and Detox",
+      "price": "299",
+      "description": "Our IV Diet and Detox Treatment is designed to support you along your personal weight-loss journey – whatever your goals. Our targeted blend of lipotropic substances, metabolic support, IV fluids, amino acids, vitamins",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Diet-Detox.png",
+      "id": 16
+    },
+    {
+      "title": "Myers Cocktail",
+      "price": "299",
+      "description": "An original blend named after Dr. John Myers that’s designed to prevent inflammation and treat the symptoms of chronic illnesses like CFS, migraines, fibromyalgia, and asthma.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/Myers-Cocktail.png",
+      "id": 17
+    },
+    {
+      "title": "NAD+",
+      "price": "599",
+      "description": "A rejuvenating enzyme therapy with anti-aging benefits and brain function support that aids energy conversions and reverses the effects of oxidation onthe body.",
+      "image": "https://healthiv.com/wp-content/uploads/2021/12/NAD.png",
+      "id": 18
+    }
+  ],
+  "cities": [
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/newyork.png",
+      "city": "New York"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/miami.png",
+      "city": "Florida"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/austin.png",
+      "city": "Texas"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/la.png",
+      "city": "Los Angeles"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/nj.png",
+      "city": "New Jersey"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/az.png",
+      "city": "Arizona"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/pa.png",
+      "city": "Pennsylvania"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/miami.png",
+      "city": "California"
+    },
+    {
+      "cityImage": "https://healthiv.com/wp-content/themes/intra/media/nj.png",
+      "city": "Las Vegas"
+    }
+  ],
+  "cart": [
+    {}
+  ]
+}
