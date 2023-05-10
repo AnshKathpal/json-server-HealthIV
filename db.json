@@ -13,13 +13,6 @@
       "password": "ansh1234",
       "phoneNo": "833882",
       "id": 2
-    },
-    {
-      "name": "Ansh Kathpalllll",
-      "email": "ansh@gmail.com",
-      "password": "cdddd",
-      "phoneNo": "8378732",
-      "id": 3
     }
   ],
   "treatments": [
@@ -189,7 +182,6 @@
       "city": "Las Vegas"
     }
   ],
-  "cart": [
-    {}
-  ]
+  "cart": [],
+  "checkout": []
 }
